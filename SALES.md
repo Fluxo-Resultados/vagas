@@ -1,25 +1,55 @@
-# Sales Case
+# A FluxoPay
 
-Here we will present a testing scenario about a customer that calls Fluxo Resultados for a solution to their problem.
+A FluxoPay é um sistema de gestão financeira gratuito, voltado para pequenas e médias empresas do setor de serviços.
 
-You must learn about tecnical terms provided by customer, undersant and propose a solution to their problem.
+Nosso objetivo é fornecer um software que permita a estes empreendedores controle financeiro de vendas e
+despesas, com relatórios, lembretes de pagamento, entre outros.
 
-You should:
-- Make a presentation (Google Presentation, Microsoft Powerpoint, PDF, etc) with a solution to their problem
-- Put which technologies will be used to achieve goal
-- Present steps that will be taken to achievel customer needs
-- Bonus: propose a pricing for the project
+Nossos principais diferenciais:
 
-Bellow are the customer description. You have one week to finish the project, and shoud send an email to brenno.flavio@fluxoresultados.com.br with the presentation.
+- Plano gratuito e ilimitado
+- Funciona no celular e no computador
+- Simples e intuitivo
 
-## (Case) Build a transparency portal for non profit organization
+A melhor forma de conhecer a FluxoPay é criar uma conta na plataforma gratuitamente e testar o serviço:
 
-We are a non profit organization that look for politicans data, look for inconsistencies and send to MPF (Ministerio Publico Federal) to audit costs and retreive money.
+- [Site da FluxoPay](https://fluxopay.com.br/)
+- [Use o app no navegador](https://app.fluxopay.com.br/)
+- [Baixe o app para Android](https://play.google.com/store/apps/details?id=com.fluxoresultados.fluxopay)
+- [Baixe o app para IOS](https://apps.apple.com/app/id1573448552)
 
-We need a solution to get data form transparency portal about new Brazilian program called "Auxilio Emergencial". Solution must:
+# A Vaga
 
-- Get data from tranparency portal following link (http://www.portaltransparencia.gov.br/comunicados/603517-portal-da-transparencia-divulga-lista-de-beneficiarios-do-auxilio-emergencial)
-- Store this information for analysis
-- Build a screen with each city and how much was spent on each city
-- When clicking on a city, another screem with: cpf, name and amount
-- We want to filter this information and download a pdf report with data
+Na área de vendas da FluxoPay, você terá a oportunidade de se conectar com vários players do mercado. Você vai participar de um projeto pioneiro na empresa, voltado para a consolidação de parcerias para levar a FluxoPay para sistemas de ERP, contabilidade e empresas. Serão parte da sua rotina:
+
+- Identificar potenciais parceiros e clientes
+- Realizar e participar de apresentações comerciais
+- Ajudar na consolidação de novas parcerias para a FluxoPay
+
+Para participar do processo, é simples:
+
+- Realize o teste que será apresentado abaixo
+- [Marque uma reunião de apresentação e entrevista aqui](https://calendly.com/fluxo-pay-brenno/apresentacao-case-fluxopay)
+- Caso aprovado, entraremos em contato para os próximos passos
+
+Nossas vagas são 100% home office, remotas e flexíveis. Priorizamos resultado e entregas ao invés de horas trabalhadas.
+
+# Case
+
+Para realização do case, você deve criar uma conta na FluxoPay e testar o serviço. O objetivo é montar uma apresentação comercial em planilhas e apresentá-la para a equipe, então é extremantente importante que você use o serviço para poder apresentá-lo.
+
+Neste case, considere que o potencial cliente é um empresário do ramo de fotografias considerando mudar seu sistema de gestão financeira. Atualmente ele utiliza planilhas para controlar os contratos de fotos de casamento que ele fecha, porém com o crescimento da demanda ficou complicado gerenciar todos os custos que ele tem por projeto, como:
+
+- Transporte até o local
+- Funcionários para realização das fotografias
+- Impostos e taxas
+
+Você deve focar nas funcionalidades da plataforma e como ela pode ajudar este potencial cliente. Pense em uma apresentação de 5 a 10 minutos.
+
+Se quiser, pode baixar e usar nosso template de apresentação aqui.
+
+Quando terminar, envie um email para [brenno.flavio@fluxoresultados.com.br](mailto:brenno.flavio@fluxoresultados.com.br) ou se preferir [marque uma reunião de apresentação aqui](https://calendly.com/fluxo-pay-brenno/apresentacao-case-fluxopay).
+
+Caso tenha qualquer dúvida, pode enviar um email para [brenno.flavio@fluxoresultados.com.br](mailto:brenno.flavio@fluxoresultados.com.br).
+
+Obrigado!
