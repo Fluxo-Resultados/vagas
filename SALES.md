@@ -48,7 +48,7 @@ Você deve focar nas funcionalidades da plataforma e como ela pode ajudar este p
 
 Se quiser, pode baixar e usar [nosso template de apresentação aqui](https://drive.google.com/file/d/1VC3OvHdO8N1BRiG81pn2Rf_pWI2pNSqh/view?usp=sharing).
 
-Quando terminar, envie um email para [brenno.flavio@fluxoresultados.com.br](mailto:brenno.flavio@fluxoresultados.com.br) ou se preferir [marque uma reunião de apresentação aqui](https://calendly.com/fluxo-pay-brenno/apresentacao-case-fluxopay).
+Quando terminar, envie um email para [brenno.flavio@fluxoresultados.com.br](mailto:brenno.flavio@fluxoresultados.com.br) que retornaremos para agendar o horário da apresentação.
 
 Caso tenha qualquer dúvida, pode enviar um email para [brenno.flavio@fluxoresultados.com.br](mailto:brenno.flavio@fluxoresultados.com.br).
 
