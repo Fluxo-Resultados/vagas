@@ -20,23 +20,23 @@ A melhor forma de conhecer a FluxoPay é criar uma conta na plataforma gratuitam
 
 # A Vaga
 
-Na área de vendas da FluxoPay, você terá a oportunidade de se conectar com vários players do mercado. Você vai participar de um projeto pioneiro na empresa, voltado para a consolidação de parcerias para levar a FluxoPay para sistemas de ERP, contabilidade e empresas. Serão parte da sua rotina:
+Na área de vendas da FluxoPay, você terá a oportunidade de se conectar com vários players do mercado. Você vai participar de um projeto pioneiro na empresa, voltado para a consolidação do nosso serviço de links de pagamento, permitindo que pessoas tenham uma forma profissional de cobrar seus clientes. Serão parte da sua rotina:
 
-- Identificar potenciais parceiros e clientes
+- Cuidar de uma carteira de clientes, ajudá-los a iniciar sua jornada na FluxoPay
 - Realizar e participar de apresentações comerciais
 - Ajudar na consolidação de novas parcerias para a FluxoPay
 
 Para participar do processo, é simples:
 
 - Realize o teste que será apresentado abaixo
-- [Marque uma reunião de apresentação e entrevista aqui](https://calendly.com/fluxo-pay-brenno/apresentacao-case-fluxopay)
-- Caso aprovado, entraremos em contato para os próximos passos
+- Envie a apresentação por emai para brenno.flavio@fluxoresultados.com.br
+- Nós iremos retornar propondo um horário para apresentação por email
 
 Nossas vagas são 100% home office, remotas e flexíveis. Priorizamos resultado e entregas ao invés de horas trabalhadas.
 
 # Case
 
-Para realização do case, você deve criar uma conta na FluxoPay e testar o serviço. O objetivo é montar uma apresentação comercial em planilhas e apresentá-la para a equipe, então é extremantente importante que você use o serviço para poder apresentá-lo.
+Para realização do case, você deve criar uma conta na FluxoPay e testar o serviço. O objetivo é montar uma apresentação comercial em slides e apresentá-la para a equipe, então é extremantente importante que você use o serviço para poder apresentá-lo.
 
 Neste case, considere que o potencial cliente é um empresário do ramo de fotografias considerando mudar seu sistema de gestão financeira. Atualmente ele utiliza planilhas para controlar os contratos de fotos de casamento que ele fecha, porém com o crescimento da demanda ficou complicado gerenciar todos os custos que ele tem por projeto, como:
 
